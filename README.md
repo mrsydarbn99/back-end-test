@@ -1,6 +1,6 @@
 # README
 
-Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/your-username/back-end-test-vista.git
 
@@ -8,7 +8,7 @@ cd back-end-test-vista
 
 
 
-Install dependencies:
+# Install dependencies:
 
 npm install
 
@@ -16,7 +16,7 @@ Create .env file based on .env.example:
 
 
 
-env
+# env
 
 PORT=4000
 
@@ -28,7 +28,7 @@ npx sequelize-cli db:migrate
 
 
 
-Running the Project
+# Running the Project
 
 npm run dev   # Development
 
