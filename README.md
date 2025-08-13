@@ -1,6 +1,7 @@
 # README
 
-# Clone the repository:
+```
+Clone the repository:
 
 git clone https://github.com/your-username/back-end-test-vista.git
 
